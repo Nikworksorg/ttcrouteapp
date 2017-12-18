@@ -1,4 +1,5 @@
+import App from './src/components/App';
 import { AppRegistry } from 'react-native';
-import App from './App';
+
 
 AppRegistry.registerComponent('TTCRouteApp', () => App);
